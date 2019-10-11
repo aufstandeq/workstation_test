@@ -1,0 +1,32 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="Class" />
+    <property name="GradleModuleWizard.inheritGroupId" value="true" />
+    <property name="GradleModuleWizard.inheritVersion" value="true" />
+    <property name="InstalledPluginsSearchHistory" value="security&#10;Co&#10;Emma" />
+    <property name="JUnit.Splitter.Proportion" value="0.22816166" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="SettingsSearchHistory" value="plug&#10;inspect" />
+    <property name="SonarLint.analyzeAllFiles.hideWarning" value="false" />
+    <property name="TrendingPluginsSearchHistory" value="find&#10;lint&#10;security&#10;Gerrit&#10;emma" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="consoleView" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="eclipse.project.dir" value="C:\Users\Dan Horton\Downloads\TW\user3\ThoughtWorks-Submission\SalesTaxes-Java" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Downloads/TW/user4/TrainsJava&#10;C:/Users/Dan Horton/Downloads/TW/user3/ThoughtWorks-Submission/SalesTaxes-Java/.project&#10;C:/Users/Dan Horton/Downloads/TW/user2/SalesTax&#10;C:/Users/Dan Horton/Downloads/TW/user2/SalesTax/SalesTax.iml&#10;C:/Users/Dan Horton/Downloads/TW/user1/Problem-Two-Java&#10;C:/Users/Dan Horton/Downloads/TW/user1/Program2_SalesTaxes&#10;C:/Users/Dan Horton/Downloads/TW/user3/SalesTaxesJava&#10;C:/Users/Dan Horton/Downloads/TW/user2/ThoughtWorksSaleTax/pom.xml&#10;C:/Users/Dan Horton/Downloads/TW Code Review 1/user2&#10;C:/Users/Dan Horton/Downloads/TW Code Review User 3/CodeChallenge/src&#10;C:/Users/Dan Horton/Downloads/TW Code Review User 3/CodeChallenge&#10;C:/Users/Dan Horton/Downloads/TW Code Review User 2/ThoughtWorksProject/.project&#10;C:/Users/Dan Horton/Downloads/TW Code Review User 2/ThoughtWorksProject&#10;C:/Users/Dan Horton/Downloads/TW Code Review User 2&#10;C:/Users/Dan Horton/Downloads&#10;C:/Program Files/Java/jdk-11.0.2&#10;C:/Users/Dan Horton/Downloads/TW Code Review 1" />
+    <property name="file.gist.reindex.count" value="69" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last.imported.location" value="$USER_HOME$/Downloads/TW/user4/TrainsJava" />
+    <property name="lastTip" value="2" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="project.wizard.template" value="Gradle" />
+  </component>
+</application>
