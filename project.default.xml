@@ -1,0 +1,31 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="AnalysisProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <option name="USE_PROJECT_LEVEL_SETTINGS" value="false" />
+        <list size="0" />
+      </component>
+      <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+      <component name="SuppressionsComponent">
+        <option name="suppComments" value="[]" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>11</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
